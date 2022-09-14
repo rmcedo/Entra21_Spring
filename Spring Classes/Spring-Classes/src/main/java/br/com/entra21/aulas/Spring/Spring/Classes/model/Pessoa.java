@@ -1,6 +1,6 @@
 package br.com.entra21.aulas.Spring.Spring.Classes.model;
 
-public class Pessoa extends MaturidadeNivel3Richardson{
+public class Pessoa extends Usuario{
 
 	private String nome;
 	private int idade;
